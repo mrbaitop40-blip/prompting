@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of VEO3 Prompt Generator",
+  "description": "An application to generate detailed text-to-video prompts for VEO3 by defining characters, dialogues, and scene environments. The output is provided in Indonesian, English, and JSON formats, updating in real-time.",
+  "requestFramePermissions": []
+}
